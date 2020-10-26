@@ -1,0 +1,28 @@
+<html>
+<head>
+    <title>Calendar</title>
+</head>
+<body>
+<header><strong>October 2020</strong></header>
+<table>
+    <tr>
+        <th></th><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th>
+    </tr>
+    <tr>
+        <th>01</th><td></td><td></td><td></td><td><s>1</s></td><td><s>2</s></td><td><s>3</s></td><td><s>4</s></td>
+    </tr>
+    <tr>
+        <th>02</th><td><s>5</s></td><td><s>6</s></td><td><s>7</s></td><td><s>8</s></td><td><s>9</s></td><td><s>10</s></td><td><s>11</s></td>
+    </tr>
+    <tr>
+        <th>03</th><td><s>12</s></td><td><s>13</s></td><td><s>14</s></td><td><s>15</s></td><td><s>16</s></td><td><s>17</s></td><td><s>18</s></td>
+    </tr>
+    <tr>
+        <th>04</th><td><s>19</s></td><td><s>20</s></td><td><s>21</s></td><td><s>22</s></td><td><s>23</s></td><td><s>24</s></td><td><s>25</s></td>
+    </tr>
+    <tr>
+        <th>05</th><td><s>26</s></td><td>27</td><td>28</td><td>29</td><td>30</td><td>31</td><td></td>
+    </tr>
+</table>
+</body>
+</html>
